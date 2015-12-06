@@ -1,0 +1,8 @@
+elpa/
+el-get/
+*.elc
+projectile.cache
+projectile-bookmarks.eld
+ac-comphist.dat
+recentf
+
